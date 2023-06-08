@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "dotenv": "^16.0.3",
     "ethers": "^5.5.3",
+=======
+    "dotenv": "^14.2.0",
+    "ethers": "^6.2.3",
+>>>>>>> b284ae4f25030bae5959290b249635580f4f469e
     "prettier": "^2.5.1",
     "solc": "0.8.7-fixed"
   },
